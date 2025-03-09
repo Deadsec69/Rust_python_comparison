@@ -1,0 +1,1 @@
+/Users/dedsec/Documents/Rust_python_comparison/rust_downloader/target/release/rust_downloader: /Users/dedsec/Documents/Rust_python_comparison/rust_downloader/src/lib.rs /Users/dedsec/Documents/Rust_python_comparison/rust_downloader/src/main.rs

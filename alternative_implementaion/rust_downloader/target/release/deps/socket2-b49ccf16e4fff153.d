@@ -1,0 +1,11 @@
+/Users/dedsec/Documents/Rust_python_comparison/rust_downloader/target/release/deps/libsocket2-b49ccf16e4fff153.rmeta: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockaddr.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/socket.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockref.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sys/unix.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/rust_downloader/target/release/deps/libsocket2-b49ccf16e4fff153.rlib: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockaddr.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/socket.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockref.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sys/unix.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/rust_downloader/target/release/deps/socket2-b49ccf16e4fff153.d: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockaddr.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/socket.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockref.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sys/unix.rs
+
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/lib.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockaddr.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/socket.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sockref.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/socket2-0.5.8/src/sys/unix.rs:

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: concurrent_scraper_py
+Version: 0.1.0
+Requires-Dist: requests==2.31.0
+Requires-Dist: beautifulsoup4==4.12.2
+Requires-Dist: aiohttp==3.7.4
+Requires-Dist: asyncio==3.4.3

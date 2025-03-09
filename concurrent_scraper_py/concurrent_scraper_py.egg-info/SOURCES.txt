@@ -1,0 +1,11 @@
+setup.py
+concurrent_scraper_py.egg-info/PKG-INFO
+concurrent_scraper_py.egg-info/SOURCES.txt
+concurrent_scraper_py.egg-info/dependency_links.txt
+concurrent_scraper_py.egg-info/requires.txt
+concurrent_scraper_py.egg-info/top_level.txt
+scraper/__init__.py
+scraper/fetcher.py
+scraper/processor.py
+utils/__init__.py
+utils/metrics.py

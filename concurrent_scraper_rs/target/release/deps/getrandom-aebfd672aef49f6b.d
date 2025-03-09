@@ -1,0 +1,11 @@
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/libgetrandom-aebfd672aef49f6b.rmeta: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/libgetrandom-aebfd672aef49f6b.rlib: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/getrandom-aebfd672aef49f6b.d: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/lib.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/error.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/util_libc.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/getrandom-0.2.15/src/getentropy.rs:

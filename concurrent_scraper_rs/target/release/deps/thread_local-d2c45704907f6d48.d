@@ -1,0 +1,10 @@
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/libthread_local-d2c45704907f6d48.rmeta: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/libthread_local-d2c45704907f6d48.rlib: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/dedsec/Documents/Rust_python_comparison/concurrent_scraper_rs/target/release/deps/thread_local-d2c45704907f6d48.d: /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs /Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs
+
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/lib.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/cached.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/thread_id.rs:
+/Users/dedsec/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.8/src/unreachable.rs:
